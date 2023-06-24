@@ -14,4 +14,4 @@ describe("index.js", () => {
     addingEventListener();
     expect(input.addEventListener.called).to.be.true;
   })
-})
+}) 
